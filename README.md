@@ -1,8 +1,6 @@
 # 📸✈️ FaceLogger-RetinaNet-DeepSORT-FaceNet512-For-Airport-Unique-Visitor-Face-Logging.
 This repo implements 3-stage pipeline for unique visitor face logging useful in public places like airports. RetinaFace based on the RetinaNet backbone was used for face detection while DeepSORT was used to track faces across frames and generate tracklets. Finally FaceNet512 embeddings + Euclidean distance were used for unique face log generation.
 
-This file contains the **running environment** setup instructions and a guide which explains the **folder structure** and what code files demonstrate what feature.
-
 # 🔧Environment setup
 
 1. Ensure the ```uv``` package manager is installed and open the terminal. First to install PyTorch with cuda support run:
@@ -54,7 +52,7 @@ If there is any issue running the code files and obtaining the output, you can f
 # Demo for Task1 👇
 
 <video src="demo.mp4" controls width="640"></video>
-[[Link to Demo for Task 1]](https://youtu.be/7WcmFbG4aOE "Click to watch")
+[[Link to Demo for Task 1]]https://youtu.be/b1YwHK5E3FY target="_blank" "Click to watch")
 
 # 🏆Acknowledgement 
 
