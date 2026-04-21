@@ -1,7 +1,6 @@
-# FaceLogger-RetinaNet-DeepSORT-FaceNet512-For-Airport-Unique-Visitor-Face-Logging.
+# 📸✈️ FaceLogger-RetinaNet-DeepSORT-FaceNet512-For-Airport-Unique-Visitor-Face-Logging.
 This repo implements 3-stage pipeline for unique visitor face logging useful in public places like airports. RetinaFace based on the RetinaNet backbone was used for face detection while DeepSORT was used to track faces across frames and generate tracklets. Finally FaceNet512 embeddings + Euclidean distance were used for unique face log generation.
 
-# 📸✈️ Airport Face logging using RetinaFace, FaceNet512 and DeepSORT.
 This file contains the **running environment** setup instructions and a guide which explains the **folder structure** and what code files demonstrate what feature.
 
 # 🔧Environment setup
