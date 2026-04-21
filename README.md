@@ -12,7 +12,10 @@ This file contains the **running environment** setup instructions and a guide wh
 
 # 🤔Assumptions:
 1. **RetinaFace** was preferred over all YOLO variants because **RetinaNet** based backbones are better for detecting **small objects** such as faces in crowded scenes.
-2. **FaceNet-512's MobileNet based backbone** was preferred over the Inception/ResNet based backbones for **edge device** constraints. 
+2. **FaceNet-512's MobileNet based backbone** was preferred over the Inception/ResNet based backbones for **edge device** constraints.
+
+# Overview of the pipeline
+![Alt text](Architecture_Diagram/Full_Pipeline.png)
 
 # 📂 Project Structure
 ```bash
