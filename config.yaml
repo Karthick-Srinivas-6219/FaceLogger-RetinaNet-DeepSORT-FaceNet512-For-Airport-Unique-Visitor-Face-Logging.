@@ -1,0 +1,6 @@
+YOLOv5_DeepSORT:
+   tracker:
+    disp_tracks: True # display track ids
+    disp_obj_track_box: True # displays bbox
+    obj_track_color: (51, 255, 255)
+    obj_track_box_color: (0, 0, 255)
