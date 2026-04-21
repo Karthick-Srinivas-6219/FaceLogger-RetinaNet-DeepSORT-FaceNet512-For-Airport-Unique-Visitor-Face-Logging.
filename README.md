@@ -52,7 +52,8 @@ If there is any issue running the code files and obtaining the output, you can f
 # Demo for Task1 👇
 
 <video src="demo.mp4" controls width="640"></video>
-[[Link to Demo for Task 1]]https://youtu.be/b1YwHK5E3FY target="_blank" "Click to watch")
+[[Link to Demo for Task 1]] "https://youtu.be/b1YwHK5E3FY" target="_blank" "Click to watch")
+<a href="https://youtu.be/b1YwHK5E3FY" target="_blank">Open in new tab</a>
 
 # 🏆Acknowledgement 
 
