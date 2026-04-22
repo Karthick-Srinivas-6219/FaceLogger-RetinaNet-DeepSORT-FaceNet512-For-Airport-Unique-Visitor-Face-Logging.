@@ -35,7 +35,7 @@ This repo implements 3-stage pipeline for unique visitor face logging useful in 
 ├── deepsort_facetracker.py   # configures deepsort for face tracking.
 ├── face_log_generation_utils.py  # saves face tracklets from deepSORT tracks.
 ├── log.db                    # entry/exit log.
-├── log_gen_pipeline.ipynb    # Complete script for running full pipeline.
+├── log_gen_pipeline.ipynb    # Complete script for running full pipeline (Run this file to see demo.). 
 ├── retinaface_bboxes.py      # obtains retinaface bboxes.
 ├── tracklet_to_log.py        # generates unique faces report
 ├── unique_faces_report.csv   # maintains count of unique faces.
@@ -49,7 +49,7 @@ This repo implements 3-stage pipeline for unique visitor face logging useful in 
 
 If there is any issue running the code files and obtaining the output, you can find the recordings of the test runs of Task1 and Task2 in the ```demo_video``` folder or you can view it in ```YouTube``` by clicking on these links here:
 
-# Demo for Task1 👇
+# Demo Video👇
 
 <video src="demo.mp4" controls width="640"></video>
 [[Link to Demo]](https://youtu.be/b1YwHK5E3FY "Click to watch")
