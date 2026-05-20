@@ -53,7 +53,3 @@ If there is any issue running the code files and obtaining the output, you can f
 
 <video src="demo.mp4" controls width="640"></video>
 [[Link to Demo]](https://youtu.be/b1YwHK5E3FY "Click to watch")
-
-# 🏆Acknowledgement 
-
-This project is a part of a hackathon run by https://katomaran.com. 
